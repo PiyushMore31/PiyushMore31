@@ -37,6 +37,11 @@ Optimal control design for a multi-state dynamic system using Linear
 Quadratic Regulation (LQR) with integral tracking and a Luenberger observer 
 for state estimation. Implemented and validated in MATLAB/Simulink.
 
+### Dumbbell Satellite Attitude Control — UKF + MPC
+Closed-loop spacecraft attitude estimation and control for a dumbbell-shaped satellite on an eccentric orbit. Implemented an Unscented Kalman Filter (UKF) for full-state attitude estimation fusing gyroscope, sun sensor, and magnetometer measurements, coupled with a Model Predictive Control (MPC) algorithm optimizing reaction wheel torques over a 10-step prediction horizon. Successfully drove a 65° initial misalignment to within 1° of sun-pointing in under 0.3 hours with all actuator torques within ±5×10⁻⁴ N·m constraints.
+
+[View Repository](https://github.com/PiyushMore31/Dumbbell-Satellite-Attitude-Control-UKF-MPC)
+
 ### Robotic Rendezvous Guidance
 
 ![RG Interception Simulation](https://raw.githubusercontent.com/vanisherx31/rendezvous-guidance-interception/main/results/interception_simulation_FVR.gif)
@@ -52,8 +57,8 @@ Developed a rendezvous-guidance (RG) based control framework for dynamic target 
 - Simulink
 - Control Systems Design
 - State-Space Modeling
-- Optimal Control (LQR) 
-- State Estimation Algorithms
+- Optimal Control (LQR, MPC) 
+- State Estimation Algorithms (UKF, MEKF, Kalman Filter, RLS)
 - Trajectory Planning & Guidance Algorithms
 
 ## Links
