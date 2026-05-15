@@ -62,5 +62,5 @@ Developed a rendezvous-guidance (RG) based control framework for dynamic target 
 
 ## Links
 
-GitHub: https://github.com/vanisherx31  
+GitHub: https://github.com/PiyushMore31
 LinkedIn: https://www.linkedin.com/in/piyush-more-b1a54213a/
