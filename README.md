@@ -22,7 +22,7 @@ simulation, optimal control design, and dynamic system modeling.
 
 ## Featured Projects
 
-### [Quarter-Car Suspension Simulation]([https://github.com/PiyushMore31/repo-name](https://github.com/PiyushMore31/LQR-Observer-Control))
+### Quarter-Car Suspension Simulation
 Dynamic vehicle suspension modeling using a quarter-car model. 
 Implemented linear and nonlinear damping analysis in MATLAB and analyzed 
 frequency response and time-domain ride comfort performance.
